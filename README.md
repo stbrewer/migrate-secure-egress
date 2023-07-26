@@ -1,2 +1,2 @@
-Converting from NAT Gateway to an Aviatrix Secure Egress Gateway. 
+Converting from a NAT Gateway to a Aviatrix Secure Egress Gateway. 
 
